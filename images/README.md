@@ -1,0 +1,1 @@
+Relative folder for images
